@@ -40,12 +40,17 @@ This document is intended to be a relatively current list of what various member
 ## Postdocs:
 ### Adam Erickson:
 #### Current Projects:
-* Thing One
-* Thing Two
+* Identifying Predictors of Antimicrobial Exposure
+* Agent-based Modeling (expanding on compartment and network DE models)
+* Deep Learning on Graphs for Epidemiology
 
 #### Papers in Progress (and Status):
-* Thing One
-* Thing Two
+* Identifying Predictors of Antimicrobial Exposure in Hospitalized Patients Using A Machine Learning Approach (Revising)
+* A Generic Software Framework for Epidemiological Network Modeling (Underway)
+* Machine-learning Model Emulation in Epidemiology (Underway)
+* Deep Learning for Hospital Graph Similarity (Ideation)
+* Directed Epidemiological Graph Generation and Style Transfer (Ideation)
+* Hybrid Network-and-Machine-learning Models for Epidemiology (Ideation)
 
 ### Chris Short:
 #### Current Projects:
